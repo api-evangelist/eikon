@@ -1,7 +1,27 @@
 aid: eikon
 name: Eikon
-description: Eikon is a company surfaced as a portfolio company of general-catalyst and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Eikon Therapeutics is a biopharmaceutical company that integrates Nobel
+  Prize-winning super-resolution single-molecule tracking (SMT) microscopy, advanced
+  engineering, automation, and high-performance computing to visualize and measure
+  the real-time movement of individual proteins in living cells. This proprietary live-cell
+  imaging platform screens protein-ligand interactions across millions of cells per
+  day, generating large, high-dimensional datasets that power the discovery and development
+  of novel small-molecule medicines. Eikon advances a clinical- and preclinical-stage
+  oncology and immunology pipeline, including EIK1001 (a TLR7/8 agonist) and IMP1734
+  (a selective PARP1 inhibitor). Backed by General Catalyst, the company is headquartered
+  in Millbrae, California with offices in New York and Jersey City.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.eikontx.com/wp-content/uploads/2024/11/metadata_social_thumbnail2.jpg
 url: https://raw.githubusercontent.com/api-evangelist/eikon/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +31,48 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Biotechnology
+- Pharmaceuticals
+- Drug Discovery
+- Oncology
+- Life Sciences
+- Microscopy
+- Machine Learning
 apis: []
+common:
+- type: Website
+  url: https://www.eikontx.com/
+- type: About
+  url: https://www.eikontx.com/about-us/
+- type: Platform
+  url: https://www.eikontx.com/platform/
+- type: Pipeline
+  url: https://www.eikontx.com/pipeline/
+- type: Blog
+  url: https://www.eikontx.com/news/
+- type: Support
+  url: https://www.eikontx.com/contact/
+- type: PrivacyPolicy
+  url: https://www.eikontx.com/privacy-policy/
+- type: Investors
+  url: https://investors.eikontx.com/
+- type: Careers
+  url: https://www.eikontx.com/join-us/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/eikon-therapeutics-inc/
+- type: DomainSecurity
+  url: security/eikon-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
