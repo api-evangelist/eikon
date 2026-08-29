@@ -10,6 +10,17 @@ description: 'Eikon Therapeutics is a biopharmaceutical company that integrates 
   oncology and immunology pipeline, including EIK1001 (a TLR7/8 agonist) and IMP1734
   (a selective PARP1 inhibitor). Backed by General Catalyst, the company is headquartered
   in Millbrae, California with offices in New York and Jersey City.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
