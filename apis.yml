@@ -65,6 +65,10 @@ tags_raw:
 - Machine Learning
 apis: []
 common:
+- type: News
+  url: https://www.eikontx.com/news/
+- type: Contact
+  url: https://www.eikontx.com/contact/
 - type: Website
   url: https://www.eikontx.com/
 - type: About
