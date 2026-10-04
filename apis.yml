@@ -52,7 +52,7 @@ tags:
 - Oncology
 - Life Sciences
 - Microscopy
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Healthcare
@@ -63,6 +63,7 @@ tags_raw:
 - Life Sciences
 - Microscopy
 - Machine Learning
+- Machine-Learning
 apis: []
 common:
 - type: News
